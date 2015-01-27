@@ -1,0 +1,23 @@
+.fl{float:left;}
+.fr{float:right;}
+/*//////////////////*/
+.ul{position:fixed;list-style-type:none;margin-top:30px;}
+.ul li{margin:2px;}
+a{display:block;width:88px;height:24px;color:#fff;text-decoration:none;border:1px solid #aaa;background:#add;text-align:center;}
+.active{background:blue;color:#fff;}
+/*//////////////////////////*/
+.header{border:1px solid #add;width:100%;height:200px;}
+
+
+
+/*//////////////////*/
+.div{width:300px;margin-left:24px;min-height:1px;}
+h1{color:red;font-size:56px;}
+h2{color:#abc;font-size:45px;}
+h3{color:#345;font-size:32px;}
+h4{color:#ef0;font-size:45px;}
+.p-one{background:#1fa;padding:3px;color:#cae;border:1px solid #a2f;}
+.p-two{background:#ffa;padding:3px;color:#ea3;border:1px solid #123;}
+.p-three{background:#3ae;padding:3px;color:#abb;border:1px solid #abb;}
+.p-four{background:#abc;padding:3px;color:#bea;border:1px solid #1ac;}
+

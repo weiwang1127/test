@@ -1,0 +1,20 @@
+.fl{float:left;}
+.fr{float:right;}
+/*//////////////////head////////////////////*/
+.header_one{border:1px solid #add;width:100%;height:150px;margin-top:24px;}
+.header_one .header_div{margin-top:26px;margin-left:12px;margin-right:80px;width:466px;}
+.header_two{border:1px solid #add;width:100%;height:550px;margin-top:24px;}
+.header_two .header_div{margin-top:26px;margin-left:12px;margin-right:80px;width:466px;border:1px solid #add;}
+/*///////////////div//////////////////////*/
+.div_static{margin-top:16px;}
+/*//////////////////statics////////////////////*/
+.static{margin-top:-14px;float:left;color:#add;background:#fff;font-size:24px;}
+
+/*//////////////////inputs////////////////////*/
+.input_in{display:block;margin-top:10px;height:20px;border:1px solid #ced}
+.input_para{width:50px;height:27px;border:1px dashed #eaa;text-align:center;}
+.input_z_match{width:110px;height:27px;border:1px dashed #eaa;text-align:center;}
+.input_none{margin-top:10px;height:20px;border:1px solid #ced;}
+/*/////////////////////////button///////////////////////*/
+.button1{width:70px;height:30px;background-color:#1dd;margin-top:20px;margin-left:45px;margin-bottom:20px;display:block;}
+.button2{width:70px;height:30px;background-color:#1dd;margin-top:20px;margin-right:16px;margin-bottom:20px;}

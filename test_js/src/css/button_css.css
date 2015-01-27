@@ -1,0 +1,19 @@
+/*button{background:green;height:25px;margin-top:8px;}
+button:hover{background:#12d;}
+button:active{background:#1da;}
+.div{top:3px;left:3px;border:1px solid #9aa;width:500px;height:100px;margin-left:13px;}*/
+/*////////////////////////////*/
+.fl{float:left;}
+.fr{float:right;}
+/*
+.from-ss{
+    display: inline-block;
+    *display: inline;
+    margin-bottom: 0;
+    vertical-align: middle;
+    *zoom: 1;
+}*/
+.button{margin-top:20px;}
+.bbtn{margin-top:20px;text-align:center;line-height:20px;padding:4px 12px;}
+.span{margin-top:8px;margin-left:0;border-left:4px solid #fff;border-right:4px solid #fff;border-top:4px solid #1ed;}
+.down{list-style:none;text-decoration:none;position:relative;left:-12px;border:1px solid #569;display:inline-block;}
